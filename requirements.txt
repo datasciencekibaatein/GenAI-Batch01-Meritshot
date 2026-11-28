@@ -1,0 +1,6 @@
+tiktoken
+groq
+dotenv
+
+
+ipykernel
